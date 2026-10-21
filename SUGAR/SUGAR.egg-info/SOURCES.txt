@@ -1,0 +1,13 @@
+setup.py
+SUGAR/__init__.py
+SUGAR/evaluate.py
+SUGAR/graph.py
+SUGAR/models.py
+SUGAR/preprocessing.py
+SUGAR/train.py
+SUGAR/transfer.py
+SUGAR/utils.py
+SUGAR.egg-info/PKG-INFO
+SUGAR.egg-info/SOURCES.txt
+SUGAR.egg-info/dependency_links.txt
+SUGAR.egg-info/top_level.txt

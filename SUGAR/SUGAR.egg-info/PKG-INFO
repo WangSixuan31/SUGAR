@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SUGAR
+Version: 1.0.0
+Summary: Probabilistic single-cell spatial mapping using unbalanced optimal transport and graph autoencoders
+Home-page: https://github.com/WangSixuan31/SUGAR/
+Author: Sixuan Wang
+Author-email: wangsx@stu.hit.edu.cn
+Requires-Python: >=3.8
