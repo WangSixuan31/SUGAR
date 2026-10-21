@@ -1,4 +1,4 @@
-# /env cellpos-env
+# /env sugar-env
 """
 @author: Sixuan Wang
 """
